@@ -1,3 +1,3 @@
 # cjaircj.io
 
-cjaircj.github.io/pagina01.html
+cjaircj.github.io/Inicio/pagina1.html
