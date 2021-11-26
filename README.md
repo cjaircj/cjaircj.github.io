@@ -1,3 +1,3 @@
 # esteticamedios.io
 
-cjaircj.github.io/pagina1.html
+cjaircj.github.io/index.html
